@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning in SDU (Faculty of Engineering and Natural Sciences), course.
 - 💞️ My skills? I have fundamental knowledge in programming, I know the architecture of a computer and know, how the code works. 
 - 🌱 I know java and javascript, but at the moment I am intensively studying c# language and game dev with unity.
-In a team, I can take any side from a designer or animator, to a programmer. But at the moment, I prefer to do all the work alone. 
-Therefore, please, before you invite me to your team, tell me about it, about yourself and your skills. How you will be useful.
+
 
 My last project: TanCHICKS
 
