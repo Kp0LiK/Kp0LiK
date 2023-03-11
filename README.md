@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kp0LiK, but you can refer to me as Stanislav (or Marte Stanislav)
-- 👀 I’m 20 years old, interested in music (play guitar, love rock, pop, music), game (play and create game), also I do sports (volleyball and workout)
+- 👀 I’m 21 years old, interested in music (play guitar, love rock, pop, music), game (play and create game), also I do sports (volleyball and workout)
 - 🌱 I’m currently learning in SDU (Faculty of Engineering and Natural Sciences), course.
 - 💞️ My skills? I have fundamental knowledge in programming, I know the architecture of a computer and know, how the code works. 
 - 🌱 I know java and javascript, but at the moment I am intensively studying c# language and game dev with unity.
